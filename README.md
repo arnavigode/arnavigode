@@ -22,7 +22,7 @@
   
 - 💬 Ask me about HTML, CSS, JavaScript
 
-- 💻 My <a href="https://arnavigode.github.io/my-Portfolio/" >Portfolio<a/>
+- 💻  <a href="https://arnavigode.github.io/my-Portfolio/" >My Portfolio<a/>
   
 ![Arnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavigode&show_icons=true&theme=radical)
 
