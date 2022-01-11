@@ -22,7 +22,7 @@
   
 - 💬 Ask me about HTML, CSS, JavaScript
 
-- 💻  <a href="https://arnavigode.github.io/my-Portfolio/" >My Portfolio<a/>
+- 💻  <a href="https://arnavigode.github.io/portfolioupload/" >My Portfolio<a/>
   
 ![Arnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavigode&show_icons=true&theme=radical)
 
@@ -57,4 +57,4 @@
 
 
 -----
-[Arnavi Gode](https://github.com/arnavigode)(https://arnavigode.github.io/my-Portfolio/)
+[Arnavi Gode](https://github.com/arnavigode)(https://arnavigode.github.io/portfolioupload/)
