@@ -8,7 +8,7 @@
 
 
 
-<div size='20px'> Hi! I'm Arnavi Gode and I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you! Plaese feel free to Contact me.
+<div size='20px'> Hi! I'm Arnavi Gode and I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you! Please feel free to Contact me.
 :smile: 
 </div>
 
